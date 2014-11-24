@@ -1,4 +1,4 @@
-FROM java:8
+FROM dockerfile/java:oracle-java8
 MAINTAINER supermomonga
 
 ENV LEIN_ROOT true
